@@ -1,4 +1,11 @@
 {
+  "name": "game-of-dice",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Mayank Sahu",
   "type": "module",
   "dependencies": {
     "boxen": "^6.2.1",
