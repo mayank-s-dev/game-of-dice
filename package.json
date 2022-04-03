@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "boxen": "^6.2.1",
+    "chalk": "^5.0.1",
+    "prompt-sync": "^4.2.0",
+    "readline-sync": "^1.4.10",
+    "winston": "^3.6.0"
+  }
+}
